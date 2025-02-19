@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "lastMessageTime": "10:32 AM",
+        "messages": [
+            { "text": "Hey, how are you?", "timestamp": "10:30 AM", "sender": "Alice" },
+            { "text": "I'm good, you?", "timestamp": "10:32 AM", "sender": "You" }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bob Williams",
+        "lastMessageTime": "12:15 PM",
+        "messages": [
+            { "text": "Are we meeting today?", "timestamp": "12:10 PM", "sender": "Bob" },
+            { "text": "Yes, at 5 PM.", "timestamp": "12:15 PM", "sender": "You" }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "lastMessageTime": "2:45 PM",
+        "messages": [
+            { "text": "Finished the report?", "timestamp": "2:40 PM", "sender": "Charlie" },
+            { "text": "Yes, just sent it.", "timestamp": "2:45 PM", "sender": "You" }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "David Smith",
+        "lastMessageTime": "4:05 PM",
+        "messages": [
+            { "text": "Want to go for a coffee?", "timestamp": "4:00 PM", "sender": "David" },
+            { "text": "Sure, let's go!", "timestamp": "4:05 PM", "sender": "You" }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Emma Wilson",
+        "lastMessageTime": "6:10 PM",
+        "messages": [
+            { "text": "Did you check the new updates?", "timestamp": "6:05 PM", "sender": "Emma" },
+            { "text": "Yes, looks great!", "timestamp": "6:10 PM", "sender": "You" }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Frank Miller",
+        "lastMessageTime": "8:30 PM",
+        "messages": [
+            { "text": "Game night today?", "timestamp": "8:25 PM", "sender": "Frank" },
+            { "text": "Absolutely, see you!", "timestamp": "8:30 PM", "sender": "You" }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Grace Lee",
+        "lastMessageTime": "9:50 PM",
+        "messages": [
+            { "text": "I loved that movie!", "timestamp": "9:45 PM", "sender": "Grace" },
+            { "text": "Yeah, it was awesome!", "timestamp": "9:50 PM", "sender": "You" }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Harry Thompson",
+        "lastMessageTime": "10:15 PM",
+        "messages": [
+            { "text": "Remember to bring the book.", "timestamp": "10:10 PM", "sender": "Harry" },
+            { "text": "I won’t forget!", "timestamp": "10:15 PM", "sender": "You" }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Isabella Martinez",
+        "lastMessageTime": "11:00 PM",
+        "messages": [
+            { "text": "Let's plan a trip soon!", "timestamp": "10:55 PM", "sender": "Isabella" },
+            { "text": "Sounds exciting!", "timestamp": "11:00 PM", "sender": "You" }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Jack Anderson",
+        "lastMessageTime": "11:30 PM",
+        "messages": [
+            { "text": "Don't forget the meeting tomorrow.", "timestamp": "11:25 PM", "sender": "Jack" },
+            { "text": "Noted, see you then!", "timestamp": "11:30 PM", "sender": "You" }
+        ]
+    }
+]

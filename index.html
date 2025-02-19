@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="navbar">
+        <h2>Chat Session</h2>
+        
+        <div class="theme-selector">
+            <label for="themeSelect">Choose Theme:</label>
+            <select id="themeSelect">
+                <option value="blue">Blue</option>
+                <option value="green">Green</option>
+                <option value="purple">Purple</option>
+                <option value="orange">Orange</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="chat-sessions">
+            <input type="text" id="searchChat" placeholder="Search chat...">
+            <ul id="chatList"></ul>
+        </div>
+
+        <div class="chat-details">
+            <div class="chat-header">
+                <h3 id="chatUserName">Select a chat</h3>
+            </div>
+            <div class="chat-messages" id="chatMessages">
+                <p>Select a chat to view messages.</p>
+            </div>
+            <div class="chat-input">
+                <input type="text" id="messageInput" placeholder="Type your message...">
+                <button id="sendMessage">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
